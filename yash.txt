@@ -2,10 +2,17 @@ hello guys
 kaise ho?
 
 login screen added
+logiut screen added
+signup scrrem
+payment screen added
+
+
+
 
 namste bhai
 button feature addded
 song feature added
 video feature addded
 list feature addded
+
 
